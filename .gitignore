@@ -18,8 +18,6 @@ eda/*
 
 catboost_info
 
-initial_data
-
 *_val.ipynb
 
 models_and_predictions/forks
